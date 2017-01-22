@@ -1,0 +1,14 @@
+{
+    "name": "ganlv/md2html",
+    "description": "Recursive convert Markdown to HTML",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ganlvtech",
+            "email": "ganlvtech@qq.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.6"
+    }
+}
